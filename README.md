@@ -71,3 +71,9 @@ import pandas as pd
 
 student_df = pd.read_csv("student_data25.csv", sep=",", encoding="utf-8")
 feedback_df = pd.read_csv("feedback_data25.csv", sep=",", encoding="utf-8")
+```
+
+Due to repository size constraints only a small representative subset of images may be included directly in the repository for preview and reference purposes. 
+
+> [!IMPORTANT]
+> The complete PNG image archive is distributed separately as `images.zip` in Release `v1.0.0`.
